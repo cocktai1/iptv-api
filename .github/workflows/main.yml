@@ -14,9 +14,6 @@ on:
     # 每天北京时间早上 8:30 运行一次 (UTC 是 00:30)
     - cron: '30 0 * * *'
 
-on:
-  workflow_dispatch:
-
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
