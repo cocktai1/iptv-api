@@ -8,22 +8,19 @@ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
-https://iptv-org.github.io/iptv/countries/cn.m3u
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/moofuy/iptv/main/iptv.m3u
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
-https://raw.githubusercontent.com/qwert789/IPTV/master/CCTV.m3u
-https://raw.githubusercontent.com/supprise0901/TVBox-IPTV/main/live.m3u
-https://raw.githubusercontent.com/PizazzPAN/PizazzPAN/main/feeds/Live/Live.m3u
-https://raw.githubusercontent.com/Ttvh/Live/main/Live.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://raw.githubusercontent.com/iptvjs/iptv/main/txt/o_s_cn_cctv.txt
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
 
+https://raw.githubusercontent.com/moofuy/iptv/main/iptv.m3u
+
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
+
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+
+https://raw.githubusercontent.com/iptvjs/iptv/main/txt/o_s_cn_cctv.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
