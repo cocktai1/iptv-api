@@ -144,8 +144,8 @@ CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV-4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 CCTV-4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls$IPV4•线路30
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85$IPV4•线路14
-CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932$IPV4•线路13
 CCTV-16 4K,http://111.56.90.5/000000000000/5000000008000023254/1.m3u8
 CCTV-16 4K,http://111.56.90.5/000000000000/1000000006000233001/1.m3u8
 CCTV-16 4K,http://111.56.90.5/000000000000/1000000006000233002/1.m3u8
@@ -364,9 +364,7 @@ CCTV-16 4K,http://74.91.26.218:82/live/cctv16hd.m3u8
 翡翠台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://101.35.240.114:88/live.php?id=翡翠台
-翡翠台,http://74.91.26.218:82/live/jade.m3u8$IPV4•线路9
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8$IPV4•线路2
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 中天新闻,https://stream1.freetv.fun/1b67bc523c86ffa05707cd3f9471cfe1ced1c17d0537471788e00679a1d6cde3.m3u8
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8$订阅源
@@ -386,16 +384,16 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 
 🏙️广东地方台,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$IPV4•线路22
-广东珠江,http://107.150.60.122/live/gdzj.m3u8$IPV4•线路24
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$IPV4•线路23
+广东珠江,http://107.150.60.122/live/gdzj.m3u8$IPV4•线路24
 广东珠江,http://111.56.90.5/000000000000/1000000004000011655/index.m3u8$IPV4•线路25
 广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8$IPV4•线路33
 广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8$IPV4•线路16
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路32
 广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8$IPV4•线路36
-广东体育,http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路25
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路31
+广东体育,http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路25
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路30
 广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111$订阅源
 广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8$IPV4•线路21
@@ -405,13 +403,13 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 大湾区卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000002000011619&livemode=1&stbId=yu&mode=1&$4M
 大湾区卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=toShengfen&mode=1&$4M-ystenlive
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
-大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8$IPV4•线路48
+大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$IPV4•线路28
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701$IPV4•线路6
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$IPV4•线路5
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd$IPV4•线路7
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路13
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路9
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$IPV4•线路5
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701$IPV4•线路6
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8$订阅源
 
 🍿影院与专场,#genre#
@@ -477,7 +475,6 @@ NewTV超级综艺,http://111.29.9.35:6610/000000001000/1000000004000023658/index
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
 卡酷少儿,http://111.56.90.5/000000000000/7851974109718180595/index.m3u8$IPV4•线路14
-卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031123&livemode=1&stbId=yu&mode=1&$8M
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=yu&mode=1&$4M
 哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
@@ -549,6 +546,7 @@ CCTV-8K,url
 凤凰资讯台,url
 凤凰香港台,url
 TVB新闻台,url
+无线新闻台,url
 星空卫视,url
 东森新闻,url
 非凡新闻,url
