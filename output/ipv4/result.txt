@@ -144,8 +144,8 @@ CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV-4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 CCTV-4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-4K,http://111.56.90.50/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls$IPV4•线路30
-CCTV-4K,http://111.56.90.48/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226340/1.m3u8?fmt=ts2hls$IPV4•线路29
+CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85$IPV4•线路14
+CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932$IPV4•线路13
 CCTV-16 4K,http://111.56.90.5/000000000000/5000000008000023254/1.m3u8
 CCTV-16 4K,http://111.56.90.5/000000000000/1000000006000233001/1.m3u8
 CCTV-16 4K,http://111.56.90.5/000000000000/1000000006000233002/1.m3u8
@@ -391,8 +391,8 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8$IPV4•线路16
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://171.38.107.33:8282/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$IPV4•线路32
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路31
 广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8$IPV4•线路36
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路31
 广东体育,http://116.77.239.26:44300/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$IPV4•线路25
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路30
 广东新闻,http://119.32.12.17:2901/udp/224.1.100.5:11111$订阅源
@@ -475,6 +475,7 @@ NewTV超级综艺,http://111.29.9.35:6610/000000001000/1000000004000023658/index
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
 卡酷少儿,http://111.56.90.5/000000000000/7851974109718180595/index.m3u8$IPV4•线路14
+卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031123&livemode=1&stbId=yu&mode=1&$8M
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=yu&mode=1&$4M
 哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
