@@ -388,12 +388,12 @@ TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc$IPV4•线路3
 东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8$订阅源
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
 台视,http://74.91.26.218:82/live/ttv.m3u8
-中视,rtmp://f13h.mine.nu/sat/tv091
+台视,rtmp://f13h.mine.nu/sat/tv071
 中视,http://74.91.26.218:82/live/ctv.m3u8
-华视,rtmp://f13h.mine.nu/sat/tv111
+中视,rtmp://f13h.mine.nu/sat/tv091
 华视,http://74.91.26.218:82/live/cts.m3u8
+华视,rtmp://f13h.mine.nu/sat/tv111
 
 📰新闻与财经,#genre#
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3$订阅源
