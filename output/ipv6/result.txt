@@ -562,6 +562,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8$订阅源
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8$订阅源
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8$订阅源
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M
 CGTN法语,http://zqh2333.top:2222/rtp/239.93.55.50:5140

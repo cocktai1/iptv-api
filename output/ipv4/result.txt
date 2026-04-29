@@ -139,8 +139,8 @@ CCTV-4K,http://107.150.60.122/live/cctv4k.m3u8
 CCTV-4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?$3840x2160
 CCTV-4K,http://home.amucn.net:8800/udp/239.49.0.82:8000
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932$IPV4•线路13
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85$IPV4•线路14
+CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932$IPV4•线路13
 CCTV-16 4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 CCTV-16 4K,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16 4K,http://74.91.26.218:82/live/cctv16hd.m3u8
@@ -349,6 +349,7 @@ CCTV-16 4K,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 兵团卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000006000040020&livemode=1&stbId=yu&mode=1&$4M
 兵团卫视,http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 兵团卫视,http://fei01.kmdns.net:8807/956923145
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8$订阅源
 
 🌏凤凰/港澳台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct
@@ -382,14 +383,16 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 无线新闻台,http://cdn6.163189.xyz/163189/wxxw
 
 🏙️广东地方台,#genre#
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$IPV4•线路23
-广东珠江,http://107.150.60.122/live/gdzj.m3u8$IPV4•线路24
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$IPV4•线路22
+广东珠江,http://107.150.60.122/live/gdzj.m3u8$IPV4•线路24
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$IPV4•线路23
 广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8$IPV4•线路16
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$订阅源
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8
 广东体育,http://cdn2.163189.xyz/163189/gdty
 广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$订阅源
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路30
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub$订阅源
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8$订阅源
@@ -398,7 +401,7 @@ TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$IPV4•线路2
 大湾区卫视,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=toShengfen&mode=1&$4M-ystenlive
 大湾区卫视,http://fei01.kmdns.net:8807/608917627
 大湾区卫视,http://101.35.240.114:88/live.php?id=大湾区卫视
-大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$IPV4•线路28
+大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8$IPV4•线路48
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
 广州竞赛,http://8.138.7.223/tv/gzjs.m3u8$订阅源
 
@@ -465,7 +468,7 @@ NewTV超级综艺,http://111.29.9.35:6610/000000001000/1000000004000023658/index
 卡酷少儿,http://120.76.248.139/live/bfgd/4200000106.m3u8
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7851974109718180595&livemode=1&stbId=yu&mode=1&$8M
 卡酷少儿,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=7589856436881630561&livemode=1&stbId=yu&mode=1&$2M
-卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8$订阅源
+卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$订阅源
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000031123&livemode=1&stbId=yu&mode=1&$8M
 哈哈炫动,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=yu&mode=1&$4M
 哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
@@ -504,6 +507,7 @@ CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN法语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=yu&mode=1&$4M
 CGTN法语,http://zqh2333.top:2222/rtp/239.93.55.50:5140
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8$订阅源
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN俄语,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=yu&mode=1&$4M
 CGTN俄语,https://0472.org/hls/cgtne.m3u8?3.24.170:5140
