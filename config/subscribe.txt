@@ -10,7 +10,6 @@ https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
@@ -18,7 +17,6 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u
 
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
 https://raw.githubusercontent.com/iptvjs/iptv/main/txt/o_s_cn_cctv.txt
 
@@ -32,7 +30,9 @@ https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/J
 
 https://raw.githubusercontent.com/moofuy/iptv/main/iptv.m3u
 
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 
 [WHITELIST]
